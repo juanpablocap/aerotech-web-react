@@ -1,0 +1,8 @@
+Se creo el proyecto con vite   
+        npm create vite@lastest
+        cd aerotech-web
+        npm install
+        npm run dev   y listo!
+
+>>tailwinds
+        https://tailwindcss.com/docs/guides/vite
